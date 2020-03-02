@@ -1,11 +1,21 @@
-<!--### Project Information
-* Project Level
-* Project Type
-* Version, etc
+### Project Classification
 
-### Downloads or Social Links
-* [Download](#)
-* [Social Link](#)
+* <i class="fas fa-tools" style="color:#233e81;"></i> Tool
 
-### Code Repository
-* [repo](#)-->
+### Accessibility
+
+* [Bugheist!](https://www.bugheist.com/)
+
+
+### Code Repositories
+
+* [Bug Logging Tool](https://github.com/OWASP/BLT)
+
+### Resources
+
+* [Slack](https://owasp.herokuapp.com/)
+* [Code Style Guide](http://pymbook.readthedocs.io/en/latest/pep8.html)
+
+### Licensing
+
+[APGL - 3.0](https://github.com/OWASP/BLT/blob/master/LICENSE.md)
