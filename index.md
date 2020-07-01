@@ -145,7 +145,9 @@ on websites.
 
 # Project About
 
-__NOTOC__ <headertabs />
+# Donate
+[Donate to make the Bug Logging Tool Better](https://owasp.org/donate?reponame=www-project-bug-logging-tool&title=OWASP+Bug+logging+tool)
+
 
 [Category:OWASP Project](Category:OWASP_Project "wikilink")
 [Category:OWASP_Builders](Category:OWASP_Builders "wikilink")
