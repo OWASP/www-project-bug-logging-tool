@@ -11,9 +11,9 @@
 
 * [Bug Logging Tool](https://github.com/OWASP/BLT)
 
-### Resources
+### Community
 
-* [Slack](http://owasp.slack.com/)
+* [Slack Channel](https://owasp.slack.com/messages/project-blt)
 * [Code Style Guide](http://pymbook.readthedocs.io/en/latest/pep8.html)
 
 ### Licensing
