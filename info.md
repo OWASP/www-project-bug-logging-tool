@@ -13,7 +13,7 @@
 
 ### Resources
 
-* [Slack](https://owasp.herokuapp.com/)
+* [Slack](http://owasp.slack.com/)
 * [Code Style Guide](http://pymbook.readthedocs.io/en/latest/pep8.html)
 
 ### Licensing
