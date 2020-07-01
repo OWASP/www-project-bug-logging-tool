@@ -3,10 +3,10 @@
 layout: col-sidebar
 title: OWASP Bug Logging Tool
 tags: example-tag
-level: 0
+level: 2
 type: tool
 
-auto-migrated: 1
+
 ---
 # Main
 
@@ -88,11 +88,11 @@ months</strong> are: <strong>
   - Finalize the Tool Project template and have it reviewed to be
     promoted from an Incubator Project to a Lab Project
   - Complete the full site wireframes
-  - Hold a design contest.
-  - Covert design into HTML
+  - Hold a design contest. (done)
+  - Covert design into HTML (in progress)
   - Integrate HTML into database
   - Test and fix any issues
-  - Launch the site
+  - Launch the site (done)
 
 </strong>
 
