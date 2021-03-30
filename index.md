@@ -15,7 +15,7 @@ OWASP BLT (Bug Logging Tool) allows anyone to submit an issue from any website. 
 <h2 id="description">Description</h2>
 <p>OWASP BLT is meant for everyone that uses the internet to help fix it. Any type of issue can be submitted from a button being the wrong color to a serious security vulnerability. BLT follows responsible disclosure ethics.</p>
 <h2 id="licensing">Licensing</h2>
-<p>This program is free software: you can redistribute it and/or modify it under the terms of the <a href="http://www.gnu.org/licenses/agpl-3.0.html">link GNU Affero General Public License 3.0</a> as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. OWASP Bugheist and any contributions are Copyright © by the Project Leader(s) 2016.</p></td>
+<p>This program is free software: you can redistribute it and/or modify it under the terms of the <a href="http://www.gnu.org/licenses/agpl-3.0.html">link GNU Affero General Public License 3.0</a> as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. OWASP Bugheist and any contributions are Copyright © by the Project Leader(s) 2016.</p>
 <td><h2 id="project_resources">Project Resources</h2>
 <p><a href="https://www.bugheist.com">Bugheist Website (powered by BLT)</a></p>
 <h2 id="home_chapter">Home Chapter</h2>
@@ -23,7 +23,8 @@ OWASP BLT (Bug Logging Tool) allows anyone to submit an issue from any website. 
 <h2 id="related_projects">Related Projects</h2>
 <ul>
 <li><a href="OWASP_Zed_Attack_Proxy_Project" title="wikilink">OWASP_Zed_Attack_Proxy_Project</a></li>
-</ul></td>
+</ul>
+  <h2 id="related_projects">News</h2>
 <ul>
 <li>[12 Sep 2016] BLT becomes an official OWASP project.</li>
 </ul>
@@ -41,10 +42,7 @@ OWASP BLT (Bug Logging Tool) allows anyone to submit an issue from any website. 
 </ul>
 <ul>
 <li>[12 Jan 2012] The idea was born to have a website to make a game out of bug finding and the first mockup was created.</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+</ul>
 
 # FAQs
 
@@ -82,27 +80,10 @@ here](https://github.com/OWASP/BLT/graphs/contributors).
 As of <strong>September, 2016, the highest priorities for the next 6
 months</strong> are: <strong>
 
-  - Get other people to review the Tool Project Template and provide
-    feedback
-  - Incorporate feedback into changes in the Tool Project Template
-  - Finalize the Tool Project template and have it reviewed to be
-    promoted from an Incubator Project to a Lab Project
-  - Complete the full site wireframes
-  - Hold a design contest. (done)
-  - Covert design into HTML (in progress)
-  - Integrate HTML into database
-  - Test and fix any issues
-  - Launch the site (done)
+  - The Roadmap is now here - https://github.com/OWASP/BLT/projects/6
 
-</strong>
 
-Subsequent Releases will add <strong>
 
-  - Internationalization Support
-  - Additional Unit Tests
-  - Automated Regression tests
-
-</strong>
 
 ## Getting Involved
 
