@@ -15,9 +15,8 @@ OWASP BLT (Bug Logging Tool) allows anyone to submit an issue from any website. 
 <h2 id="description">Description</h2>
 <p>OWASP BLT is meant for everyone that uses the internet to help fix it. Any type of issue can be submitted from a button being the wrong color to a serious security vulnerability. BLT follows responsible disclosure ethics.</p>
 <h2 id="licensing">Licensing</h2>
-<p>This program is free software: you can redistribute it and/or modify it under the terms of the <a href="http://www.gnu.org/licenses/agpl-3.0.html">link GNU Affero General Public License 3.0</a> as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. OWASP Bugheist and any contributions are Copyright © by the Project Leader(s) 2016.</p>
+<p>This program is free software: you can redistribute it and/or modify it under the terms of the <a href="http://www.gnu.org/licenses/agpl-3.0.html">link GNU Affero General Public License 3.0</a> as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. OWASP BLT and any contributions are Copyright © by the Project Leader(s) 2016.</p>
 <td><h2 id="project_resources">Project Resources</h2>
-<p><a href="https://www.bugheist.com">Bugheist Website (powered by BLT)</a></p>
 <h2 id="home_chapter">Home Chapter</h2>
 <p><a href="Brooklyn" title="wikilink">Brooklyn</a></p>
 <h2 id="related_projects">Related Projects</h2>
