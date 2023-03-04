@@ -28,6 +28,8 @@ Once again, we would like to extend our heartfelt thanks to all the contributors
 
 https://github.com/OWASP/BLT/graphs/contributors.
 
+# How it Works
+OWASP BLT is a bug logging tool that allows users to report issues and get points, and companies are held accountable. Testers can win money through company-sponsored Bug Hunts, tips, or the Grand Prize/Jackpot. Organizations can keep their customers happy by giving them a consistent bug-free user experience.
 
 # Licensing
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License 3.0 as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. OWASP BLT and any contributions are Copyright © by the Project Leader(s) 2016-2023.
