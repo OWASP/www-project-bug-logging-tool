@@ -88,28 +88,12 @@ OWASP BLT is a bug logging tool that allows users to report issues and get point
 | Bring the app to MVP level for both Android & iOS | Q4 2023 |
 
 # Development
-[![Build Status](https://github.com/OWASP/BLT/actions/workflows/django-test.yml/badge.svg) 
+[Build Status](https://github.com/OWASP/BLT/actions/workflows/django-test.yml/badge.svg)
 
 ## Contributing
-This is a call for contributions to a project called BLT. The project has a list of issues that are tagged as "good first issue" to help new contributors get started. There are also guidelines for contributing to the project. If you find a bug or have an improvement, you can report it using BLT. To make sure your contribution is linked to the relevant issue, create a new branch with the button on the right of the issue to create a new branch. Additionally, if you want to take ownership of an issue, you can use the comment "assign to me" or /assign to assign it to yourself. Contributing to the project is appreciated and benefits both the project and the contributor. Contributions are always welcome and appreciated! To get started with contributing, please check out our [Contribution Guidelines](https://github.com/OWASP/BLT/blob/main/CONTRIBUTING.md). We have a list of issues that are tagged with "good first issue" to help newcomers get started. You can also join our [OWASP Slack Channel](https://owasp.slack.com/) and ask questions in the #project-blt channel.
+This is a call for contributions to a project called BLT. The project has a list of issues that are tagged as "good first issue" to help new contributors get started. There are also guidelines for contributing to the project. If you find a bug or have an improvement, you can report it using BLT. To make sure your contribution is linked to the relevant issue, create a new branch with the button on the right of the issue to create a new branch. Additionally, if you want to take ownership of an issue, you can use the comment "assign to me" or /assign to assign it to yourself. Contributing to the project is appreciated and benefits both the project and the contributor. Contributions are always welcome and appreciated! To get started with contributing, please check out our [Contribution Guidelines](https://github.com/OWASP/BLT/blob/main/CONTRIBUTING.md). We have a list of issues that are tagged with "good first issue" to help newcomers get started. You can also join our [OWASP Slack Channel](https://owasp.slack.com/) and ask questions in the #project-blt channel. Involvement in the development and promotion of OWASP BLT is actively encouraged! You do not have to be a security expert or a programmer to contribute. Some of the ways you can help are as follows:
 
-
-## Setting Up The Development Server
-Please follow the development server setup procedure here. Currently, the development server can be installed using Docker or Vagrant. You can also use virtualenv or pipenv install, pipenv shell and then continue with the remaining instructions.
-
-## Documentation
-Use the Installation Docs to get started. Swagger API Documentations can be found at the root domain /swagger/. Postman API Documentations: Postman Docs.
-
-## Resources
-Join the OWASP Slack Channel and ask questions at #project-blt. Github activity can be seen in Slack #blt-github. Figma designs for web and flutter app are available here.
-
-## Coding style guid
-Please follow the black code style for the web project. It helps us in keeping the codebase consistent and improves readability for other developers.
-
-# Licensing
-OWASP BLT is licensed under the GNU Affero General Public License 3.0. Please see the LICENSE file for more details.
-
-## Recent News
+Here is the recent news about the BLT project:
 
 - **September 12, 2016:** BLT becomes an official OWASP project.
 - **July 18, 2016:** The project was submitted to be an OWASP project.
@@ -117,6 +101,18 @@ OWASP BLT is licensed under the GNU Affero General Public License 3.0. Please se
 - **Dec 8, 2015:** A friend of OWASP suggested that the project become an OWASP project.
 - **May 9, 2016:** Logo created.
 - **Jan 12, 2012:** The idea was born to have a website to make a game out of bug finding and the first mockup was created.
+
+In addition, BLT has participated in the Google Summer of Code program for the last 4 years:
+- 2022
+- 2021
+- 2020
+- 2019
+
+Other news about the BLT project that we didn't include:
+- BLT v1.0 was released on May 5, 2020, with significant enhancements and new features.
+- In 2020, BLT was selected as one of the 12 projects for the OWASP Incubator Project Initiative. 
+- The project has a vibrant community and continues to receive regular updates and contributions.
+
 
 # FAQs
 
