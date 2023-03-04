@@ -114,78 +114,52 @@ Other news about the BLT project that we didn't include:
 - The project has a vibrant community and continues to receive regular updates and contributions.
 
 
-# FAQs
+Frequently Asked Questions (FAQs) about OWASP BLT:
 
-## How can I participate in your project?
+1. What is OWASP BLT?
+OWASP BLT (Bug Logging Tool) is a free and open-source web-based application that allows anyone to report software or hardware bugs found on any website.
 
-All you have to do is make the Project Leader's aware of your available
-time to contribute to the project. It is also important to let the
-Leader's know how you would like to contribute and pitch in to help the
-project meet it's goals and milestones. There are many different ways
-you can contribute to an OWASP Project, but communication with the leads
-is key.
+2. How does OWASP BLT work?
+Users can submit a bug report through the BLT platform, and they can earn points for each bug they find. Companies can launch their own bug hunts and reward users for finding issues on their websites. Bug hunters can win money through company-sponsored Bug Hunts, tips, or the Grand Prize/Jackpot.
 
-## If I am not a programmer can I participate in your project?
+3. Who can use OWASP BLT?
+OWASP BLT is available for anyone to use, regardless of their technical background.
 
-Yes, you can certainly participate in the project if you are not a
-programmer or technical. The project needs different skills and
-expertise and different times during its development. Currently, we are
-looking for researchers, writers, graphic designers, and a project
-administrator. See the Road Map and Getting Involved tab for more
-details.
+4. How do I report an issue using OWASP BLT?
+To report an issue using OWASP BLT, you need to:
+- Create a user account to log into BLT.
+- Describe the software or hardware bug you found.
+- Attach a screenshot of the bug.
+- Submit the information.
 
-# Acknowledgements
+5. How can I win rewards for reporting bugs on OWASP BLT?
+You can win rewards by participating in company-sponsored Bug Hunts, where you can earn prize money known as tips. The prize pool can include a Grand Prize/Jackpot, and in some cases, there may be "heists" where each bug is worth a specific amount based on what the company sets.
 
-## Contributors
+6. How are bugs verified on OWASP BLT?
+Bugs are verified through a community-driven process, where other users can verify the issue, and the company can confirm the validity of the bug report.
 
-The OWASP Bug Logging Tool Project Template is developed by a worldwide
-team of volunteers. A live update of project [contributors is found
-here](https://github.com/OWASP/BLT/graphs/contributors).
+7. What kind of bugs can be reported on OWASP BLT?
+Any kind of software or hardware bug found on a website can be reported through OWASP BLT, including security vulnerabilities, broken links, incorrect display of content, and more.
 
+8. Can organizations launch bug hunt programs with prize pools using OWASP BLT?
+Yes, organizations can launch their own bug hunts and reward users for finding issues on their websites.
 
-# Road Map and Getting Involved
+9. Is OWASP BLT free to use?
+Yes, OWASP BLT is free and open-source software licensed under the GNU Affero General Public License 3.0.
 
-## Roadmap
-  - The Current Roadmap is now here - https://github.com/OWASP/BLT/projects/6
+10. How can I get involved with the OWASP BLT project?
+Contributions to OWASP BLT are always welcome and appreciated! You can check out the Contribution Guidelines for more information, or join the OWASP Slack Channel and ask questions in the #project-blt channel. You can contribute to the project by offering your skills and expertise, such as research, writing, graphic design, or project administration.
 
-## Getting Involved
-
-Involvement in the development and promotion of OWASP BLT is actively encouraged! You do not have to be a
-security expert or a programmer to contribute. Some of the ways you can
-help are as follows:
-
-### Coding
-
-We could implement some of the later items on the roadmap sooner if
-someone wanted to help out with unit or automated regression tests
-
-### Localization
-
-Are you fluent in another language? Can you help translate the text
-strings in the OWASP BLT project into that language?
-
-### Testing
-
-Do you have a flair for finding bugs in software? We want to product a
-high quality product, so any help with Quality Assurance would be
-greatly appreciated. Let us know if you can offer your help.
-
-### Feedback
-
-Please join us on slack in the OWASP #project-blt channel for feedback
-
-  - What do like?
-  - What don't you like?
-  - What features would you like to see prioritized on the roadmap?
-
-
-# Project About
+11. Can non-technical people participate in the OWASP BLT project?
+Yes, non-technical people can participate in the project. The project needs different skills and expertise at different times during its development. Currently, the project is looking for researchers, writers, graphic designers, and a project administrator. See the Road Map and Getting Involved tab for more details.
 
 # Donate
-[Donate to make the Bug Logging Tool Better](https://owasp.org/donate?reponame=www-project-bug-logging-tool&title=OWASP+Bug+logging+tool)
+Donating to OWASP BLT is a great way to support the project and ensure its ongoing development. Your donation will be used to cover expenses related to hosting the project's infrastructure, organizing events, and promoting the project to a wider audience. By donating, you're helping to keep OWASP BLT free and open-source for everyone to use, and you're supporting the growth of the project. Every contribution, no matter how small, is greatly appreciated and goes a long way in helping the project reach its full potential.
 
+[Donate Here](https://owasp.org/donate?reponame=www-project-bug-logging-tool&title=OWASP+Bug+logging+tool)
 
 [Category:OWASP Project](Category:OWASP_Project "wikilink")
-[Category:OWASP_Builders](Category:OWASP_Builders "wikilink")
-[Category:OWASP_Defenders](Category:OWASP_Defenders "wikilink")
-[Category:OWASP_Tool](Category:OWASP_Tool "wikilink")
+[Category:OWASP Builders](Category:OWASP_Builders "wikilink")
+[Category:OWASP Defenders](Category:OWASP_Defenders "wikilink")
+[Category:OWASP Tool](Category:OWASP_Tool "wikilink")
+
