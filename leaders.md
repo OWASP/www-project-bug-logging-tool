@@ -8,7 +8,7 @@
 
 #### Current GSoC Mentors
 * [DonnieBLT on slack](https://owasp.org/slack/invite)
-* Aryan Ranjan - Flutter and Django Mentor
+* [Aryan Ranjan - Flutter and Django Mentor](mailto:aryan_r@ch.iitr.ac.in)
 
 #### Past GSoC Mentors
 * Rahul Badami - Payments Mentor
