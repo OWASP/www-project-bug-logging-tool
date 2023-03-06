@@ -103,10 +103,10 @@ Here is the recent news about the BLT project:
 - **Jan 12, 2012:** The idea was born to have a website to make a game out of bug finding and the first mockup was created.
 
 In addition, BLT has participated in the Google Summer of Code program for the last 4 years:
-- 2022
-- 2021
-- 2020
-- 2019
+- 2023 https://owasp.org/www-community/initiatives/gsoc/gsoc2023ideas
+- 2022 https://owasp.org/www-community/initiatives/gsoc/gsoc2022ideas
+- 2021 https://owasp.org/www-community/initiatives/gsoc/gsoc2021ideas
+- 2020 https://owasp.org/www-community/initiatives/gsoc/gsoc2020ideas
 
 Other news about the BLT project that we didn't include:
 - BLT v1.0 was released on May 5, 2020, with significant enhancements and new features.
