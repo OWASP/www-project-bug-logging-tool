@@ -30,7 +30,7 @@ https://github.com/OWASP/BLT/graphs/contributors.
 
 # Screenshots
 
-# App
+## App
 
 <div>
     <br/>
