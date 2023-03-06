@@ -2,8 +2,11 @@
 * <i class="fas fa-tools" style="color:#233e81;"></i> Tool
 
 ### Code Repositories
-* [Bug Logging Tool Core](https://github.com/OWASP/BLT)
-* [Bug Logging Tool App](https://github.com/OWASP/BLT-Flutter)
+* [BLT-Core](https://github.com/OWASP/BLT)
+* [BLT-Flutter](https://github.com/OWASP/BLT-Flutter)
+* [BLT-Extension](https://github.com/OWASP/BLT-Extension)
+* [BLT-Bacon](https://github.com/OWASP/BLT-Bacon)
+* [BLT-Action](https://github.com/OWASP/BLT-Action)
 
 ### Community
 * [Slack Channel](https://owasp.slack.com/messages/project-blt)
@@ -12,4 +15,7 @@
 ### Licensing
 * BLT-Core [APGL - 3.0](https://github.com/OWASP/BLT/blob/master/LICENSE.md)
 * BLT-Flutter [MIT](https://github.com/OWASP/BLT-Flutter/blob/master/LICENSE)
+* BLT-Extension [MIT](https://github.com/OWASP/BLT-Extension/blob/master/LICENSE)
+* BLT-Bacon [MIT](https://github.com/OWASP/BLT-Bacon/blob/master/LICENSE)
+* BLT-Action [MIT](https://github.com/OWASP/BLT-Action/blob/master/LICENSE)
 
