@@ -11,5 +11,5 @@
 
 ### Licensing
 * BLT-Core [APGL - 3.0](https://github.com/OWASP/BLT/blob/master/LICENSE.md)
-* BLT-Flutter [MIT](https://github.com/OWASP/BLT-Flutter/blob/master/LICENSE.md)
+* BLT-Flutter [MIT](https://github.com/OWASP/BLT-Flutter/blob/master/LICENSE)
 
