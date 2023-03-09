@@ -1,6 +1,6 @@
 ### Leaders
 #### Main Project Leader
-* [DonnieBLT on slack](https://owasp.org/slack/invite)
+* [DonnieBLT on slack](mailto:donnie.brown@owasp.org)
 #### Co-Leaders
 * [Sourav Badami](mailto:sourav.badami@owasp.org)
 #### Contributors
