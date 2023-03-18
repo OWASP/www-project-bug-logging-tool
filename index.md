@@ -28,6 +28,19 @@ Once again, we would like to extend our heartfelt thanks to all the contributors
 
 https://github.com/OWASP/BLT/graphs/contributors.
 
+# Screenshots
+
+## App
+
+<div>
+    <br/>
+    <img src="./assets/images/gh_screen1.png" width=150> &emsp;
+    <img src="./assets/images/gh_screen2.png" width=150> &emsp;
+    <img src="./assets/images/gh_screen3.png" width=150> &emsp;
+    <img src="./assets/images/gh_screen4.png" width=150> &emsp;
+    <br/><br/>
+</div>
+
 # How it Works
 OWASP BLT is a bug logging tool that allows users to report issues and get points, and companies are held accountable. Testers can win money through company-sponsored Bug Hunts, tips, or the Grand Prize/Jackpot. Organizations can keep their customers happy by giving them a consistent bug-free user experience.
 
