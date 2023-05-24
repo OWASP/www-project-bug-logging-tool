@@ -1,6 +1,11 @@
-### Project Classification
+### Project Information
+
+* <i class="fas fa-city" style="font-size: 1.3em; color:#800080;"></i>
+  <span style="font-size: 1.3em;">Production Project</span>
+
+#### Project Classification
+
 * <i class="fas fa-tools" style="color:#233e81;"></i> Tool
-* Project Level: Incubator
 
 ### Code Repositories
 * [BLT-Core](https://github.com/OWASP/BLT)
