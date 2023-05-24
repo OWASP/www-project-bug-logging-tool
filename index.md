@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Bug Logging Tool
 tags: example-tag
-level: 2
+level: 3.5
 type: tool
 
 
