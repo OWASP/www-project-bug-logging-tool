@@ -2,10 +2,10 @@
 
 layout: col-sidebar
 title: OWASP Bug Logging Tool
-tags: example-tag
+tags: OWASP, BLT, Internet security, Bug reporting, Responsible disclosure, User rewards, Bughunt programs, Online safety, Vulnerability detection, User engagement
 level: 3.5
 type: tool
-
+pitch: OWASP BLT is a tool enabling internet users to report all kinds of issues they encounter, thereby improving internet security, with a unique feature of rewarding users for bug reporting and allowing companies to launch their own bug hunting programs, promoting responsible disclosure and fostering a safer online environment.
 
 ---
 # Introduction
