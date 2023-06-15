@@ -167,7 +167,7 @@ Contributions to OWASP BLT are always welcome and appreciated! You can check out
 11. Can non-technical people participate in the OWASP BLT project?
 Yes, non-technical people can participate in the project. The project needs different skills and expertise at different times during its development. Currently, the project is looking for researchers, writers, graphic designers, and a project administrator. See the Road Map and Getting Involved tab for more details.
 
-12. How to use ChatGPT to contribute to the project ?
+12. How to use ChatGPT to contribute to the project ?  
 OpenAI's ChatGPT can be a helpful tool when it comes to assisting with projects like OWASP's bug logging tool. As a large language model trained on a variety of sources, it can generate human-like text based on the inputs provided to it. You can use it to facilitate many parts of your development process, including but not limited to troubleshooting, code generation, documentation writing, and testing. Here's a detailed way to approach this:
 
 1. **Development Phase:**
