@@ -107,7 +107,8 @@ OWASP BLT is a bug logging tool that allows users to report issues and get point
 This is a call for contributions to a project called BLT. The project has a list of issues that are tagged as "good first issue" to help new contributors get started. There are also guidelines for contributing to the project. If you find a bug or have an improvement, you can report it using BLT. To make sure your contribution is linked to the relevant issue, create a new branch with the button on the right of the issue to create a new branch. Additionally, if you want to take ownership of an issue, you can use the comment "assign to me" or /assign to assign it to yourself. Contributing to the project is appreciated and benefits both the project and the contributor. Contributions are always welcome and appreciated! To get started with contributing, please check out our [Contribution Guidelines](https://github.com/OWASP/BLT/blob/main/CONTRIBUTING.md). We have a list of issues that are tagged with "good first issue" to help newcomers get started. You can also join our [OWASP Slack Channel](https://owasp.slack.com/) and ask questions in the #project-blt channel. Involvement in the development and promotion of OWASP BLT is actively encouraged! You do not have to be a security expert or a programmer to contribute. Some of the ways you can help are as follows:
 
 Here is the recent news about the BLT project:
-
+- **May 24 2023:** BLT becomes an OWASP production project
+- **May 10, 2023:** BLT participating in GSoC 2023
 - **September 12, 2016:** BLT becomes an official OWASP project.
 - **July 18, 2016:** The project was submitted to be an OWASP project.
 - **May 9, 2016:** Logo created.
@@ -165,6 +166,35 @@ Contributions to OWASP BLT are always welcome and appreciated! You can check out
 
 11. Can non-technical people participate in the OWASP BLT project?
 Yes, non-technical people can participate in the project. The project needs different skills and expertise at different times during its development. Currently, the project is looking for researchers, writers, graphic designers, and a project administrator. See the Road Map and Getting Involved tab for more details.
+
+12. How to use ChatGPT to contribute to the project ?
+OpenAI's ChatGPT can be a helpful tool when it comes to assisting with projects like OWASP's bug logging tool. As a large language model trained on a variety of sources, it can generate human-like text based on the inputs provided to it. You can use it to facilitate many parts of your development process, including but not limited to troubleshooting, code generation, documentation writing, and testing. Here's a detailed way to approach this:
+
+1. **Development Phase:**
+   - **Code Reviews and Troubleshooting**: ChatGPT can provide advice on code optimization, best practices, and debugging. You can ask it for input on your Django, Flutter, JavaScript code, or any other language's code.
+   - **Code Generation**: For quick prototyping or generating boilerplate code, you can ask ChatGPT to generate snippets. For example, you might need a quick Django model or a Flutter widget.
+   - **Documentation**: Writing documentation can be time-consuming. ChatGPT can help by generating documentation based on your code and requirements. You simply need to provide a clear description of what the function or component does, and ChatGPT can help generate an appropriate documentation comment.
+   
+2. **Testing Phase:**
+   - **Generating Test Cases**: You can ask ChatGPT to help you brainstorm and generate various test cases to ensure your code works as expected under different circumstances.
+   - **Writing Test Scripts**: Similar to code generation, you can ask ChatGPT to help you write test scripts. Provide a clear description of the test, and it can generate a basic test script for you.
+
+3. **User Support:**
+   - **User Queries**: You can integrate ChatGPT as a part of your support team to respond to user queries. You would need to train it on your specific product using Reinforcement Learning from Human Feedback (RLHF) so it can answer queries accurately and contextually.
+
+4. **Project Management:**
+   - **Generating Reports**: You can ask ChatGPT to help you generate progress reports, or any other text-based reports. Provide it with the necessary data, and a brief about what the report needs to convey.
+   - **Communication**: You can use ChatGPT to help draft project updates, emails, or any other communications you might have with stakeholders.
+
+5. **GitHub Action:**
+   - **Automating Tasks**: ChatGPT could be used in a GitHub Action to automate various tasks. For example, it could be used to automatically generate release notes based on merged PRs, or to check for specific code style in PRs.
+
+6. **Browser Extension:**
+   - **User Interface**: You can use ChatGPT to assist users on the extension. For example, you might use it to help users navigate the extension or troubleshoot problems. It could also be used to generate helpful suggestions or tips based on the context of the user's current webpage.
+
+Remember that GPT-4, like all AI models, is a tool that can help assist in various tasks, but it won't replace human judgment and expertise. Always review and consider the suggestions it provides, and don't use it for sensitive tasks without appropriate checks in place.
+   
+Remember to comply with OpenAI's use case policy and ensure that the usage of ChatGPT is ethical, privacy-preserving, and secure.
 
 # Donate
 Donating to OWASP BLT is a great way to support the project and ensure its ongoing development. Your donation will be used to cover expenses related to hosting the project's infrastructure, organizing events, and promoting the project to a wider audience. By donating, you're helping to keep OWASP BLT free and open-source for everyone to use, and you're supporting the growth of the project. Every contribution, no matter how small, is greatly appreciated and goes a long way in helping the project reach its full potential.
