@@ -100,9 +100,6 @@ OWASP BLT is a bug logging tool that allows users to report issues and get point
 | Design and build the company side part of the app | Q4 2023 |
 | Bring the app to MVP level for both Android & iOS | Q4 2023 |
 
-# Development
-[![Build Status](https://github.com/OWASP/BLT/actions/workflows/django-test.yml/badge.svg)]([https://travis-ci.org/OWASP/BL](https://github.com/OWASP/BLT/)T)
-
 ## Contributing
 This is a call for contributions to a project called BLT. The project has a list of issues that are tagged as "good first issue" to help new contributors get started. There are also guidelines for contributing to the project. If you find a bug or have an improvement, you can report it using BLT. To make sure your contribution is linked to the relevant issue, create a new branch with the button on the right of the issue to create a new branch. Additionally, if you want to take ownership of an issue, you can use the comment "assign to me" or /assign to assign it to yourself. Contributing to the project is appreciated and benefits both the project and the contributor. Contributions are always welcome and appreciated! To get started with contributing, please check out our [Contribution Guidelines](https://github.com/OWASP/BLT/blob/main/CONTRIBUTING.md). We have a list of issues that are tagged with "good first issue" to help newcomers get started. You can also join our [OWASP Slack Channel](https://owasp.slack.com/) and ask questions in the #project-blt channel. Involvement in the development and promotion of OWASP BLT is actively encouraged! You do not have to be a security expert or a programmer to contribute. Some of the ways you can help are as follows:
 
