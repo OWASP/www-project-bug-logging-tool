@@ -19,7 +19,7 @@
 * [Code Style Guide](http://pymbook.readthedocs.io/en/latest/pep8.html)
 
 ### Licensing
-* BLT-Core [APGL - 3.0](https://github.com/OWASP-BLT/BLT/blob/main/LICENSE.md)
+* BLT-Core [AGPL - 3.0](https://github.com/OWASP-BLT/BLT/blob/main/LICENSE.md)
 * BLT-Flutter [BSD 3](https://github.com/OWASP-BLT/BLT-Flutter/blob/master/LICENSE)
 * BLT-Extension [BSD 3](https://github.com/OWASP-BLT/BLT-Extension/blob/master/LICENSE)
 * BLT-Bacon [LGPL](https://github.com/OWASP-BLT/BLT-Bacon/blob/master/LICENSE)
