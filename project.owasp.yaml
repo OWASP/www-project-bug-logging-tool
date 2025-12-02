@@ -1,0 +1,97 @@
+audience:
+  - builder
+community:
+  - name: project-blt
+    platform: slack
+    url: https://owasp.slack.com/archives/C2FF0UVHU
+    description: Collaborate on the OWASP BLT project
+  - name: project-blt-github
+    platform: slack
+    url: https://owasp.slack.com/archives/C5QAK3Q9G
+  - name: project-blt-gsoc-standup
+    platform: slack
+    url: https://owasp.slack.com/archives/C0145BH2P70
+    description: Google Summer of Code Standup
+  - name: project-blt-flutter-github
+    platform: slack
+    url: https://owasp.slack.com/archives/C04SCC5Q3RT
+    description: flutter github
+  - name: project-blt-codemagic
+    platform: slack
+    url: https://owasp.slack.com/archives/C052AAELH3P
+  - name: project-blt-prs
+    platform: slack
+    url: https://owasp.slack.com/archives/C05FBSPALLS
+  - name: project-blt-lettuce
+    platform: slack
+    url: https://owasp.slack.com/archives/C06R1H90JKV
+  - name: project-blt-lettuce-deploys
+    platform: slack
+    url: https://owasp.slack.com/archives/C06RBJ779CH
+  - name: project-blt-bacon
+    platform: slack
+    url: https://owasp.slack.com/archives/C06RNAENB4P
+leaders:
+  - name: Donnie Brown
+    email: donnie.brown@owasp.org
+    github: DonnieBLT
+level: 3.5
+license:
+  - AGPL-3.0
+  - BSD-3-Clause
+  - GPL-3.0
+  - LGPL-2.1
+name: OWASP Bug Logging Tool
+pitch: OWASP BLT is a tool enabling internet users to report all kinds of issues they encounter, thereby improving internet security, with a unique feature
+  of rewarding users for bug reporting and allowing companies to launch their own bug hunting programs, promoting responsible disclosure and fostering a
+  safer online environment.
+repositories:
+  - name: www-project-bug-logging-tool
+    url: https://github.com/OWASP/www-project-bug-logging-tool
+    description: OWASP BLT (Bug Logging Tool)
+  - name: .github
+    url: https://github.com/OWASP-BLT/.github
+  - name: BLT
+    url: https://github.com/OWASP-BLT/BLT
+    description: OWASP BLT is a collection of security tools.
+  - name: BLT-Action
+    url: https://github.com/OWASP-BLT/BLT-Action
+    description: 'A github action that lets contributors type /assign to be assigned issues and automatically removes it within 24 hours '
+  - name: BLT-Bacon
+    url: https://github.com/OWASP-BLT/BLT-Bacon
+    description: BACON is a cutting-edge Bitcoin-based token system designed to incentivize engagement and contributions within the OWASP BLT ecosystem.
+      By integrating with Bitcoin Core and utilizing the Runes protocol, BACON introduces a transparent, secure, and gamified environment that rewards developers
+      and contributors for their efforts.
+  - name: BLT-Extension
+    url: https://github.com/OWASP-BLT/BLT-Extension
+    description: The chrome extension to BLT that allows you to take screenshots of websites and report them
+  - name: BLT-Flutter
+    url: https://github.com/OWASP-BLT/BLT-Flutter
+    description: "The official OWASP BLT App repository/ Heist 'em bugs! "
+  - name: BLT-Lettuce
+    url: https://github.com/OWASP-BLT/BLT-Lettuce
+    description: A slack bot
+  - name: BLT-Sammich
+    url: https://github.com/OWASP-BLT/BLT-Sammich
+    description: The Slack bot for BLT
+  - name: BLT-Tomato
+    url: https://github.com/OWASP-BLT/BLT-Tomato
+    description: Scripts related to projects mainly for high level OWASP project management
+  - name: OWASP-BLT-Lyte
+    url: https://github.com/OWASP-BLT/OWASP-BLT-Lyte
+  - name: OWASP-BLT-Website-Monitor
+    url: https://github.com/OWASP-BLT/OWASP-BLT-Website-Monitor
+    description: Monitors a website using Github Actions
+tags:
+  - OWASP
+  - BLT
+  - Internet security
+  - Bug reporting
+  - Responsible disclosure
+  - User rewards
+  - Bughunt programs
+  - Online safety
+  - Vulnerability detection
+  - User engagement
+type: tool
+website: https://owasp.org/www-project-bug-logging-tool
