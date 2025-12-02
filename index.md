@@ -13,9 +13,9 @@ pitch: OWASP BLT is a tool enabling internet users to report all kinds of issues
 
 OWASP BLT (Bug Logging Tool) is a powerful tool designed to allow everyone who uses the internet to help improve it. With BLT, users can submit any type of issue they encounter, whether it's a simple design flaw like a button being the wrong color, or a serious security vulnerability. By following responsible disclosure ethics, BLT helps to ensure that reported issues are addressed in a timely and appropriate manner.
 
-One unique feature of BLT is that it rewards users for reporting bugs. As users report more issues, they earn more points, which can be verified for extra points. Additionally, companies and organizations can get involved with BLT and launch their own bughunt programs with prize pools. This not only incentivizes users to report bugs but also encourages companies to actively seek out and address vulnerabilities before they can be exploited.
+One unique feature of BLT is that it rewards users for reporting bugs. As users report more issues, they earn more points, which can be verified for extra points. Additionally, companies and organizations can get involved with BLT and launch their own bug bounty programs with prize pools. This not only incentivizes users to report bugs but also encourages companies to actively seek out and address vulnerabilities before they can be exploited.
 
-Overall, OWASP BLT is an important tool for improving internet security and promoting responsible disclosure practices. By allowing anyone to report issues, rewarding users for their contributions, and providing a platform for companies to launch bughunt programs, BLT empowers individuals and organizations to work together towards a safer and more secure online environment.
+Overall, OWASP BLT is an important tool for improving internet security and promoting responsible disclosure practices. By allowing anyone to report issues, rewarding users for their contributions, and providing a platform for companies to launch bug bounty programs, BLT empowers individuals and organizations to work together towards a safer and more secure online environment.
 
 ---
 
@@ -111,7 +111,7 @@ OWASP BLT (Bug Logging Tool) is a free and open-source web-based application tha
 
 **2. How does OWASP BLT work?**
 
-Users can submit a bug report through the BLT platform, and they can earn points for each bug they find. Companies can launch their own bug bounties and reward users for finding issues on their websites. Bug hunters can win money through company-sponsored Bug Bounties, tips, or the Grand Prize/Jackpot.
+Users can submit a bug report through the BLT platform, and they can earn points for each bug they find. Companies can launch their own Bug Bounties and reward users for finding issues on their websites. Bug hunters can win money through company-sponsored Bug Bounties, tips, or the Grand Prize/Jackpot.
 
 **3. Who can use OWASP BLT?**
 
@@ -139,7 +139,7 @@ Any kind of software or hardware bug found on a website can be reported, includi
 
 **8. Can organizations launch bug bounty programs?**
 
-Yes, organizations can launch their own bug bounties and reward users for finding issues on their websites.
+Yes, organizations can launch their own Bug Bounties and reward users for finding issues on their websites.
 
 **9. Is OWASP BLT free to use?**
 
