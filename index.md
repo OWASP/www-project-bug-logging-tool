@@ -8,25 +8,35 @@ type: tool
 pitch: OWASP BLT is a tool enabling internet users to report all kinds of issues they encounter, thereby improving internet security, with a unique feature of rewarding users for bug reporting and allowing companies to launch their own bug hunting programs, promoting responsible disclosure and fostering a safer online environment.
 
 ---
+
 # Introduction
+
 OWASP BLT (Bug Logging Tool) is a powerful tool designed to allow everyone who uses the internet to help improve it. With BLT, users can submit any type of issue they encounter, whether it's a simple design flaw like a button being the wrong color, or a serious security vulnerability. By following responsible disclosure ethics, BLT helps to ensure that reported issues are addressed in a timely and appropriate manner.
 
 One unique feature of BLT is that it rewards users for reporting bugs. As users report more issues, they earn more points, which can be verified for extra points. Additionally, companies and organizations can get involved with BLT and launch their own bughunt programs with prize pools. This not only incentivizes users to report bugs but also encourages companies to actively seek out and address vulnerabilities before they can be exploited.
 
 Overall, OWASP BLT is an important tool for improving internet security and promoting responsible disclosure practices. By allowing anyone to report issues, rewarding users for their contributions, and providing a platform for companies to launch bughunt programs, BLT empowers individuals and organizations to work together towards a safer and more secure online environment.
 
-# Contributors
-The OWASP Bug Logging Tool Project is a community-driven initiative that relies on the contributions of volunteers from all over the world. These dedicated individuals generously donate their time and expertise to help improve the security of the internet for everyone.
+---
 
-We understand that without the invaluable contributions of our volunteers, the OWASP BLT Project would not be possible. Therefore, we would like to express our sincere gratitude to all the contributors and supporters who have helped make this project a success.
+# How it Works
 
-We are proud of the diverse and dedicated community that has grown around this project. We recognize that each contributor brings their unique perspective, skills, and experiences to the table, and we value each and every one of them.
+OWASP BLT is a bug logging tool that allows users to report issues and get points, and companies are held accountable. Testers can win money through company-sponsored Bug Bounties, tips, or the Grand Prize/Jackpot. Organizations can keep their customers happy by giving them a consistent bug-free user experience.
 
-At OWASP, we strive to foster a welcoming and inclusive environment where everyone can contribute and thrive. We believe that diversity is essential to the success of the OWASP BLT Project, and we are committed to providing a safe and supportive space for all our volunteers.
+---
 
-Once again, we would like to extend our heartfelt thanks to all the contributors and supporters of the OWASP Bug Logging Tool Project. Your efforts are truly appreciated, and we look forward to continuing our work together to make the internet a safer place for everyone.
+# Latest Releases
 
-https://github.com/OWASP/BLT/graphs/contributors.
+| Version | Release Date | Highlights |
+|---------|--------------|------------|
+| **v2.1** | November 2025 | Dark mode, bounty payouts, security labs, hackathon features, UI/UX improvements |
+| **v2.0** | March 2025 | Major redesign, notification system, Slack integration, BACON rewards, security labs |
+| **v1.5** | June 2024 | AI chatbot, website monitoring, cryptocurrency payments |
+| **v1.4** | March 2024 | New homepage, sidebar navigation, improved UI/UX |
+
+For full release notes, visit [GitHub Releases](https://github.com/OWASP-BLT/BLT/releases).
+
+---
 
 # Screenshots
 
@@ -41,107 +51,136 @@ https://github.com/OWASP/BLT/graphs/contributors.
     <br/><br/>
 </div>
 
-# How it Works
-OWASP BLT is a bug logging tool that allows users to report issues and get points, and companies are held accountable. Testers can win money through company-sponsored Bug Hunts, tips, or the Grand Prize/Jackpot. Organizations can keep their customers happy by giving them a consistent bug-free user experience.
+---
 
+# Contributors
+
+The OWASP Bug Logging Tool Project is a community-driven initiative that relies on the contributions of volunteers from all over the world. These dedicated individuals generously donate their time and expertise to help improve the security of the internet for everyone.
+
+We are proud of the diverse and dedicated community that has grown around this project. We recognize that each contributor brings their unique perspective, skills, and experiences to the table, and we value each and every one of them.
+
+At OWASP, we strive to foster a welcoming and inclusive environment where everyone can contribute and thrive. We believe that diversity is essential to the success of the OWASP BLT Project, and we are committed to providing a safe and supportive space for all our volunteers.
+
+View all contributors: [https://github.com/OWASP-BLT/BLT/graphs/contributors](https://github.com/OWASP-BLT/BLT/graphs/contributors)
+
+---
 
 # Roadmap
-https://github.com/orgs/OWASP-BLT/projects/2/views/5
 
-## Contributing
-https://blt.owasp.org/contribute/
+View the project roadmap: [https://github.com/orgs/OWASP-BLT/projects/2/views/5](https://github.com/orgs/OWASP-BLT/projects/2/views/5)
 
-Here is the recent news about the BLT project:
-- **May 24 2023:** BLT becomes an OWASP production project
-- **May 10, 2023:** BLT participating in GSoC 2023
-- **September 12, 2016:** BLT becomes an official OWASP project.
-- **July 18, 2016:** The project was submitted to be an OWASP project.
-- **May 9, 2016:** Logo created.
-- **Dec 8, 2015:** A friend of OWASP suggested that the project become an OWASP project.
-- **May 9, 2016:** Logo created.
-- **Jan 12, 2012:** The idea was born to have a website to make a game out of bug finding and the first mockup was created.
+---
 
-In addition, BLT has participated in the Google Summer of Code program for the last 4 years:
-- 2023 https://owasp.org/www-community/initiatives/gsoc/gsoc2023ideas
-- 2022 https://owasp.org/www-community/initiatives/gsoc/gsoc2022ideas
-- 2021 https://owasp.org/www-community/initiatives/gsoc/gsoc2021ideas
-- 2020 https://owasp.org/www-community/initiatives/gsoc/gsoc2020ideas
+# Contributing
 
-Other news about the BLT project that we didn't include:
-- BLT v1.0 was released on May 5, 2020, with significant enhancements and new features.
-- In 2020, BLT was selected as one of the 12 projects for the OWASP Incubator Project Initiative. 
-- The project has a vibrant community and continues to receive regular updates and contributions.
+Learn how to contribute: [https://blt.owasp.org/contribute/](https://blt.owasp.org/contribute/)
 
+---
 
-Frequently Asked Questions (FAQs) about OWASP BLT:
+# Project History
 
-1. What is OWASP BLT?
+## Recent Milestones
+
+- **November 2025:** BLT v2.1 released with dark mode, security labs, and hackathon features
+- **March 2025:** BLT v2.0 released with major redesign and new features
+- **June 2024:** BLT v1.5 released with AI chatbot integration
+- **May 2023:** BLT becomes an OWASP production project
+- **May 2023:** BLT participating in GSoC 2023
+- **September 2016:** BLT becomes an official OWASP project
+- **July 2016:** The project was submitted to be an OWASP project
+- **Jan 2012:** The idea was born to have a website to make a game out of bug finding
+
+## Google Summer of Code Participation
+
+BLT has participated in the Google Summer of Code program:
+
+- [GSoC 2025](https://owasp.org/www-community/initiatives/gsoc/gsoc2025ideas)
+- [GSoC 2024](https://owasp.org/www-community/initiatives/gsoc/gsoc2024ideas)
+- [GSoC 2023](https://owasp.org/www-community/initiatives/gsoc/gsoc2023ideas)
+- [GSoC 2022](https://owasp.org/www-community/initiatives/gsoc/gsoc2022ideas)
+- [GSoC 2021](https://owasp.org/www-community/initiatives/gsoc/gsoc2021ideas)
+- [GSoC 2020](https://owasp.org/www-community/initiatives/gsoc/gsoc2020ideas)
+
+---
+
+# Frequently Asked Questions (FAQs)
+
+**1. What is OWASP BLT?**
+
 OWASP BLT (Bug Logging Tool) is a free and open-source web-based application that allows anyone to report software or hardware bugs found on any website.
 
-2. How does OWASP BLT work?
-Users can submit a bug report through the BLT platform, and they can earn points for each bug they find. Companies can launch their own bug hunts and reward users for finding issues on their websites. Bug hunters can win money through company-sponsored Bug Hunts, tips, or the Grand Prize/Jackpot.
+**2. How does OWASP BLT work?**
 
-3. Who can use OWASP BLT?
+Users can submit a bug report through the BLT platform, and they can earn points for each bug they find. Companies can launch their own bug bounties and reward users for finding issues on their websites. Bug hunters can win money through company-sponsored Bug Bounties, tips, or the Grand Prize/Jackpot.
+
+**3. Who can use OWASP BLT?**
+
 OWASP BLT is available for anyone to use, regardless of their technical background.
 
-4. How do I report an issue using OWASP BLT?
-To report an issue using OWASP BLT, you need to:
-- Create a user account to log into BLT.
-- Describe the software or hardware bug you found.
-- Attach a screenshot of the bug.
-- Submit the information.
+**4. How do I report an issue using OWASP BLT?**
 
-5. How can I win rewards for reporting bugs on OWASP BLT?
-You can win rewards by participating in company-sponsored Bug Hunts, where you can earn prize money known as tips. The prize pool can include a Grand Prize/Jackpot, and in some cases, there may be "heists" where each bug is worth a specific amount based on what the company sets.
+To report an issue using OWASP BLT:
+- Create a user account to log into BLT
+- Describe the software or hardware bug you found
+- Attach a screenshot of the bug
+- Submit the information
 
-6. How are bugs verified on OWASP BLT?
+**5. How can I win rewards for reporting bugs?**
+
+You can win rewards by participating in company-sponsored Bug Bounties, where you can earn prize money. The prize pool can include a Grand Prize/Jackpot, and in some cases, each bug is worth a specific amount based on what the company sets.
+
+**6. How are bugs verified?**
+
 Bugs are verified through a community-driven process, where other users can verify the issue, and the company can confirm the validity of the bug report.
 
-7. What kind of bugs can be reported on OWASP BLT?
-Any kind of software or hardware bug found on a website can be reported through OWASP BLT, including security vulnerabilities, broken links, incorrect display of content, and more.
+**7. What kind of bugs can be reported?**
 
-8. Can organizations launch bug hunt programs with prize pools using OWASP BLT?
-Yes, organizations can launch their own bug hunts and reward users for finding issues on their websites.
+Any kind of software or hardware bug found on a website can be reported, including security vulnerabilities, broken links, incorrect display of content, and more.
 
-9. Is OWASP BLT free to use?
+**8. Can organizations launch bug bounty programs?**
+
+Yes, organizations can launch their own bug bounties and reward users for finding issues on their websites.
+
+**9. Is OWASP BLT free to use?**
+
 Yes, OWASP BLT is free and open-source software licensed under the GNU Affero General Public License 3.0.
 
-10. How can I get involved with the OWASP BLT project?
-Contributions to OWASP BLT are always welcome and appreciated! You can check out the Contribution Guidelines for more information, or join the OWASP Slack Channel and ask questions in the #project-blt channel. You can contribute to the project by offering your skills and expertise, such as research, writing, graphic design, or project administration.
+**10. How can I get involved with the project?**
 
-11. Can non-technical people participate in the OWASP BLT project?
-Yes, non-technical people can participate in the project. The project needs different skills and expertise at different times during its development. Currently, the project is looking for researchers, writers, graphic designers, and a project administrator. See the Road Map and Getting Involved tab for more details.
+Contributions are always welcome! You can:
+- Check out the [Contribution Guidelines](https://blt.owasp.org/contribute/)
+- Join the [OWASP Slack Channel](https://owasp.slack.com/messages/project-blt)
+- Contribute skills like research, writing, graphic design, or development
 
-12. How to use ChatGPT to contribute to the project ?  
-OpenAI's ChatGPT can be a helpful tool when it comes to assisting with projects like OWASP's bug logging tool. As a large language model trained on a variety of sources, it can generate human-like text based on the inputs provided to it. You can use it to facilitate many parts of your development process, including but not limited to troubleshooting, code generation, documentation writing, and testing. Here's a detailed way to approach this:
+**11. Can non-technical people participate?**
 
-    1. **Development Phase:**
-       - **Code Reviews and Troubleshooting**: ChatGPT can provide advice on code optimization, best practices, and debugging. You can ask it for input on your Django, Flutter, JavaScript code, or any other language's code.
-       - **Code Generation**: For quick prototyping or generating boilerplate code, you can ask ChatGPT to generate snippets. For example, you might need a quick Django model or a Flutter widget.
-       - **Documentation**: Writing documentation can be time-consuming. ChatGPT can help by generating documentation based on your code and requirements. You simply need to provide a clear description of what the function or component does, and ChatGPT can help generate an appropriate documentation comment.
-   
-    2. **Testing Phase:**
-       - **Generating Test Cases**: You can ask ChatGPT to help you brainstorm and generate various test cases to ensure your code works as expected under different circumstances.
-       - **Writing Test Scripts**: Similar to code generation, you can ask ChatGPT to help you write test scripts. Provide a clear description of the test, and it can generate a basic test script for you.
+Yes! The project needs different skills including researchers, writers, graphic designers, and project administrators.
 
-    3. **User Support:**
-       - **User Queries**: You can integrate ChatGPT as a part of your support team to respond to user queries. You would need to train it on your specific product using Reinforcement Learning from Human Feedback (RLHF) so it can answer queries accurately and contextually.
+---
 
-    4. **Project Management:**
-       - **Generating Reports**: You can ask ChatGPT to help you generate progress reports, or any other text-based reports. Provide it with the necessary data, and a brief about what the report needs to convey.
-       - **Communication**: You can use ChatGPT to help draft project updates, emails, or any other communications you might have with stakeholders.
+# Using AI Tools for Contributing
 
-    5. **GitHub Action:**
-       - **Automating Tasks**: ChatGPT could be used in a GitHub Action to automate various tasks. For example, it could be used to automatically generate release notes based on merged PRs, or to check for specific code style in PRs.
+AI tools like ChatGPT can assist with BLT project contributions:
 
-    6. **Browser Extension:**
-       - **User Interface**: You can use ChatGPT to assist users on the extension. For example, you might use it to help users navigate the extension or troubleshoot problems. It could also be used to generate helpful suggestions or tips based on the context of the user's current webpage.
+**Development:**
+- Code reviews and troubleshooting for Django, Flutter, or JavaScript
+- Generating boilerplate code and documentation
+- Quick prototyping
 
-Remember that GPT-4, like all AI models, is a tool that can help assist in various tasks, but it won't replace human judgment and expertise. Always review and consider the suggestions it provides, and don't use it for sensitive tasks without appropriate checks in place.
-   
-Remember to comply with OpenAI's use case policy and ensure that the usage of ChatGPT is ethical, privacy-preserving, and secure.
+**Testing:**
+- Brainstorming test cases
+- Writing test scripts
+
+**Project Management:**
+- Generating progress reports
+- Drafting communications
+
+**Note:** AI tools are assistants, not replacements for human judgment. Always review suggestions and ensure compliance with relevant policies.
+
+---
 
 # Donate
+
 Donating to OWASP BLT is a great way to support the project and ensure its ongoing development. Your donation will be used to cover expenses related to hosting the project's infrastructure, organizing events, and promoting the project to a wider audience. By donating, you're helping to keep OWASP BLT free and open-source for everyone to use, and you're supporting the growth of the project. Every contribution, no matter how small, is greatly appreciated and goes a long way in helping the project reach its full potential.
 
 [Donate Here](https://owasp.org/donate?reponame=www-project-bug-logging-tool&title=OWASP+Bug+logging+tool)
