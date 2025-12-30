@@ -67,7 +67,7 @@ View all contributors: [https://github.com/OWASP-BLT/BLT/graphs/contributors](ht
 
 # Roadmap
 
-View the project roadmap: [https://github.com/orgs/OWASP-BLT/projects/2/views/5](https://github.com/orgs/OWASP-BLT/projects/2/views/5)
+View the project roadmap: [https://github.com/orgs/OWASP-BLT/projects/2/views/2](https://github.com/orgs/OWASP-BLT/projects/2/views/2)
 
 ---
 
