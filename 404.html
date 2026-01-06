@@ -1,15 +1,67 @@
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>404 Not Found</title>
+  <style>
+    /* Reset some default styles */
+    body, html {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f5f5f5;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: #333;
+    }
 
-title: 404 - Not Found
-layout: col-generic
+    .container {
+      text-align: center;
+      max-width: 500px;
+      padding: 20px;
+    }
 
----
+    h1 {
+      font-size: 8rem;
+      margin: 0;
+      color: #ff6b6b;
+    }
 
-<div class="container">
-  <p><img src="/assets/images/web/404-old-owasp.png"></p>
-  <h2>WHOA THAT PAGE CANNOT BE FOUND</h2>
-  <p>Try the <strong>SEARCH</strong> function in the main navigation to find something. If you are looking for chapter information, please see <a href="/chapters/">Chapters</a> for the correct chapter. For information about OWASP projects see <a href="/projects/">Projects</a>. For common attacks, vulnerabilities, or information about other community-led contributions see <a href="/www-community/">Contributed Content</a>.</p>
-  
-  <hr>
-  <p><strong>If all else fails you can search our <a href="https://wiki.owasp.org/">historical site</a>.</strong></p>
-</div>
+    h2 {
+      font-size: 2rem;
+      margin: 10px 0 20px 0;
+    }
+
+    p {
+      font-size: 1rem;
+      color: #555;
+    }
+
+    a {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 10px 20px;
+      background-color: #333;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 5px;
+      transition: background-color 0.3s ease;
+    }
+
+    a:hover {
+      background-color: #555;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>404</h1>
+    <h2>Oops! Page not found</h2>
+    <p>The page you are looking for might have been moved, removed, or never existed.</p>
+    <a href="/">Go Back Home</a>
+  </div>
+</body>
+</html>
