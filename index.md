@@ -2,194 +2,116 @@
 
 layout: col-sidebar
 title: OWASP Bug Logging Tool
-tags: OWASP, BLT, Internet security, Bug reporting, Responsible disclosure, User rewards, Bughunt programs, Online safety, Vulnerability detection, User engagement
+tags: OWASP, BLT, bug reporting, responsible disclosure, vulnerability disclosure, bug bounty, security education, contributor rewards, open source
 level: 3.5
 type: tool
-pitch: OWASP BLT is a tool enabling internet users to report all kinds of issues they encounter, thereby improving internet security, with a unique feature of rewarding users for bug reporting and allowing companies to launch their own bug hunting programs, promoting responsible disclosure and fostering a safer online environment.
+pitch: Find it. Report it. Fix it. Get rewarded. OWASP BLT is a community-built family of 47 open-source tools that lets anyone report bugs and vulnerabilities on any website, app or repository, rewards the people who find them, and turns newcomers into security contributors.
 
 ---
 
 # Introduction
 
-OWASP BLT (Bug Logging Tool) is a powerful tool designed to allow everyone who uses the internet to help improve it. With BLT, users can submit any type of issue they encounter, whether it's a simple design flaw like a button being the wrong color, or a serious security vulnerability. By following responsible disclosure ethics, BLT helps to ensure that reported issues are addressed in a timely and appropriate manner.
-
-One unique feature of BLT is that it rewards users for reporting bugs. As users report more issues, they earn more points, which can be verified for extra points. Additionally, companies and organizations can get involved with BLT and launch their own bug bounty programs with prize pools. This not only incentivizes users to report bugs but also encourages companies to actively seek out and address vulnerabilities before they can be exploited.
-
-Overall, OWASP BLT is an important tool for improving internet security and promoting responsible disclosure practices. By allowing anyone to report issues, rewarding users for their contributions, and providing a platform for companies to launch bug bounty programs, BLT empowers individuals and organizations to work together towards a safer and more secure online environment.
-
----
-
-# How it Works
-
-OWASP BLT is a bug logging tool that allows users to report issues and get points, and companies are held accountable. Testers can win money through company-sponsored Bug Bounties, tips, or the Grand Prize/Jackpot. Organizations can keep their customers happy by giving them a consistent bug-free user experience.
-
----
-
-# Latest Releases
-
-| Version | Release Date | Highlights |
-|---------|--------------|------------|
-| **v2.1** | November 2025 | Dark mode, bounty payouts, security labs, hackathon features, UI/UX improvements |
-| **v2.0** | March 2025 | Major redesign, notification system, Slack integration, BACON rewards, security labs |
-| **v1.5** | June 2024 | AI chatbot, website monitoring, cryptocurrency payments |
-| **v1.4** | March 2024 | New homepage, sidebar navigation, improved UI/UX |
-
-For full release notes, visit [GitHub Releases](https://github.com/OWASP-BLT/BLT/releases).
-
----
-
-# Screenshots
-
-## App
-
-<div>
-    <br/>
-    <img src="./assets/images/gh_screen1.png" width=150> &emsp;
-    <img src="./assets/images/gh_screen2.png" width=150> &emsp;
-    <img src="./assets/images/gh_screen3.png" width=150> &emsp;
-    <img src="./assets/images/gh_screen4.png" width=150> &emsp;
-    <br/><br/>
-</div>
-
----
-
-# Contributors
-
-The OWASP Bug Logging Tool Project is a community-driven initiative that relies on the contributions of volunteers from all over the world. These dedicated individuals generously donate their time and expertise to help improve the security of the internet for everyone.
-
-We are proud of the diverse and dedicated community that has grown around this project. We recognize that each contributor brings their unique perspective, skills, and experiences to the table, and we value each and every one of them.
-
-At OWASP, we strive to foster a welcoming and inclusive environment where everyone can contribute and thrive. We believe that diversity is essential to the success of the OWASP BLT Project, and we are committed to providing a safe and supportive space for all our volunteers.
-
-View all contributors: [https://github.com/OWASP-BLT/BLT/graphs/contributors](https://github.com/OWASP-BLT/BLT/graphs/contributors)
-
----
-
-# Roadmap
-
-View the project roadmap: [https://github.com/orgs/OWASP-BLT/projects/2/views/5](https://github.com/orgs/OWASP-BLT/projects/2/views/5)
-
----
-
-# Contributing
-
-Learn how to contribute: [https://blt.owasp.org/contribute/](https://blt.owasp.org/contribute/)
-
----
-
-# Project History
-
-## Recent Milestones
-
-- **November 2025:** BLT v2.1 released with dark mode, security labs, and hackathon features
-- **March 2025:** BLT v2.0 released with major redesign and new features
-- **June 2024:** BLT v1.5 released with AI chatbot integration
-- **May 2023:** BLT becomes an OWASP production project
-- **May 2023:** BLT participating in GSoC 2023
-- **September 2016:** BLT becomes an official OWASP project
-- **July 2016:** The project was submitted to be an OWASP project
-- **Jan 2012:** The idea was born to have a website to make a game out of bug finding
-
-## Google Summer of Code Participation
-
-BLT has participated in the Google Summer of Code program:
-
-- [GSoC 2025](https://owasp.org/www-community/initiatives/gsoc/gsoc2025ideas)
-- [GSoC 2024](https://owasp.org/www-community/initiatives/gsoc/gsoc2024ideas)
-- [GSoC 2023](https://owasp.org/www-community/initiatives/gsoc/gsoc2023ideas)
-- [GSoC 2022](https://owasp.org/www-community/initiatives/gsoc/gsoc2022ideas)
-- [GSoC 2021](https://owasp.org/www-community/initiatives/gsoc/gsoc2021ideas)
-- [GSoC 2020](https://owasp.org/www-community/initiatives/gsoc/gsoc2020ideas)
-
----
-
-# Frequently Asked Questions (FAQs)
-
-**1. What is OWASP BLT?**
-
-OWASP BLT (Bug Logging Tool) is a free and open-source web-based application that allows anyone to report software or hardware bugs found on any website.
-
-**2. How does OWASP BLT work?**
-
-Users can submit a bug report through the BLT platform, and they can earn points for each bug they find. Companies can launch their own Bug Bounties and reward users for finding issues on their websites. Bug hunters can win money through company-sponsored Bug Bounties, tips, or the Grand Prize/Jackpot.
-
-**3. Who can use OWASP BLT?**
-
-OWASP BLT is available for anyone to use, regardless of their technical background.
-
-**4. How do I report an issue using OWASP BLT?**
-
-To report an issue using OWASP BLT:
-- Create a user account to log into BLT
-- Describe the software or hardware bug you found
-- Attach a screenshot of the bug
-- Submit the information
-
-**5. How can I win rewards for reporting bugs?**
-
-You can win rewards by participating in company-sponsored Bug Bounties, where you can earn prize money. The prize pool can include a Grand Prize/Jackpot, and in some cases, each bug is worth a specific amount based on what the company sets.
-
-**6. How are bugs verified?**
-
-Bugs are verified through a community-driven process, where other users can verify the issue, and the company can confirm the validity of the bug report.
-
-**7. What kind of bugs can be reported?**
-
-Any kind of software or hardware bug found on a website can be reported, including security vulnerabilities, broken links, incorrect display of content, and more.
-
-**8. Can organizations launch bug bounty programs?**
-
-Yes, organizations can launch their own Bug Bounties and reward users for finding issues on their websites.
-
-**9. Is OWASP BLT free to use?**
-
-Yes, OWASP BLT is free and open-source software licensed under the GNU Affero General Public License 3.0.
-
-**10. How can I get involved with the project?**
-
-Contributions are always welcome! You can:
-- Check out the [Contribution Guidelines](https://blt.owasp.org/contribute/)
-- Join the [OWASP Slack Channel](https://owasp.slack.com/messages/project-blt)
-- Contribute skills like research, writing, graphic design, or development
-
-**11. Can non-technical people participate?**
-
-Yes! The project needs different skills including researchers, writers, graphic designers, and project administrators.
-
----
-
-# Using AI Tools for Contributing
-
-AI tools like ChatGPT can assist with BLT project contributions:
-
-**Development:**
-- Code reviews and troubleshooting for Django, Flutter, or JavaScript
-- Generating boilerplate code and documentation
-- Quick prototyping
-
-**Testing:**
-- Brainstorming test cases
-- Writing test scripts
-
-**Project Management:**
-- Generating progress reports
-- Drafting communications
-
-**Note:** AI tools are assistants, not replacements for human judgment. Always review suggestions and ensure compliance with relevant policies.
-
----
+OWASP BLT (Bug Logging Tool) lets everyone who uses the internet help make it better. Spot a broken link, a typo, a 500 error or a serious vulnerability on any website, app or repository, and log it on BLT. Public issues are verified by the community, security issues are disclosed privately, and the organizations involved are held to account until they're fixed.
+
+What started in 2012 as an idea to make a game out of bug finding has grown into 47 projects built by 350 contributors in more than 46,000 commits, all of it free and open source at [git.owaspblt.org/BLT](https://git.owaspblt.org/BLT).
+
+| 46,000+ | 350 | 47 | 14 years |
+|:---:|:---:|:---:|:---:|
+| commits | contributors | projects | of building, since 2012 |
+
+Numbers as of November 2026. See them live on [owaspblt.org](https://owaspblt.org/).
+
+# What BLT Does
+
+| | | |
+|:---:|---|---|
+| 🐛 | **Report anything** | Log any bug, with screenshots, from the web, the mobile app, the browser extension, the terminal or an AI agent. |
+| 🔒 | **Disclose responsibly** | Send sensitive findings through BLT Zero's encrypted, zero-log channel. Accepted vulnerabilities can get an ID in the BLT-YYYY-NNNN registry. |
+| 🏆 | **Reward the finders** | Earn points, climb leaderboards, win organization-run bug hunts and hackathons, and collect BACON tokens for open-source contributions. |
+| 🎓 | **Grow security talent** | Take free courses and browser labs at BLT University, make a guided first contribution, and join a mentored Google Summer of Code project. |
+
+# How It Works
+
+| Step | For bug hunters | For organizations |
+|:---:|---|---|
+| **1** | Spot something wrong on any site, app or repository. | Claim your domain and see every report about it in one place. |
+| **2** | Log it on BLT with a description and a screenshot. Security issues go privately. | Launch a bug hunt with a prize pool, or a hackathon for your contributors. |
+| **3** | Earn points, bounties and recognition as it gets verified and fixed. | Fix what's reported and keep users happy with a bug-free experience. |
+
+# The BLT Family
+
+Every BLT project lives in one open monorepo at [git.owaspblt.org/BLT](https://git.owaspblt.org/BLT), and most run live on the edge. Here are the highlights; [BLT Waypoint](https://waypoint.owaspblt.org/) tracks all 47.
+
+| Project | What it does |
+|---|---|
+| 🐞 **Report and disclose** | |
+| [BLT](https://owaspblt.org/) | The main platform: gamified, crowd-sourced bug reporting and vulnerability disclosure |
+| [BLT Pages](https://pages.owaspblt.org/) | Public bug reports, leaderboard and community elections |
+| [BLT Zero](https://zero.owaspblt.org/) | Zero-trust, encrypted vulnerability reporting |
+| [BLT CVE](https://cve.owaspblt.org/) | Community vulnerability registry under the BLT-YYYY-NNNN namespace |
+| [Extension](https://extension.owaspblt.org/), [Mobile app](https://flutter.owaspblt.org/), [API](https://api.owaspblt.org/), [MCP](https://mcp.owaspblt.org/) | Report from your browser, your phone, your code or your AI agent |
+| 🛡️ **Security tooling** | |
+| [Toasty](https://toasty.owaspblt.org/) | AI triage for reports: redacts secrets and PII, finds duplicates, summarizes |
+| [NetGuardian](https://netguardian.owaspblt.org/) | Distributed domain crawling and signed findings, with triage for organizations |
+| [Ketchup](https://ketchup.owaspblt.org/) | Real-time workspace for penetration testing teams |
+| [Preflight](https://preflight.owaspblt.org/) | Security guidance for contributors before they open a pull request |
+| [Vanish](https://vanish.owaspblt.org/), [SafeCloak](https://safecloak.owaspblt.org/) | Personal data removal and private peer-to-peer calls |
+| 🎓 **Learn and contribute** | |
+| [BLT University](https://university.owaspblt.org/) | Short courses, browser-based security labs and recent vulnerability data |
+| [Start](https://start.owaspblt.org/), [OSSH](https://ossh.owaspblt.org/) | A contributor start page, and an AI guide to the open-source project that fits you |
+| [GSoC](https://gsoc.owaspblt.org/), [Ideas](https://ideas.owaspblt.org/), [Jobs](https://jobs.owaspblt.org/) | Google Summer of Code, project proposals and a security job board |
+| 🏅 **Rewards and community** | |
+| [BACON](https://rewards.owaspblt.org/) | Token rewards for open-source contributions |
+| [Hackathons](https://hackathons.owaspblt.org/) | Contributor hackathons with live charts, leaderboards and prizes |
+| [Gitcaster](https://gitcaster.owaspblt.org/), [HackerHouse](https://hackerhouse.owaspblt.org/) | Live repository activity, with sportscaster-style commentary |
+| 🧭 **Tools for OWASP** | |
+| [OWASP Projects](https://projects.owaspblt.org/), [Metadata](https://metadata.owaspblt.org/) | Status, issues and metadata for every OWASP project |
+| [Wich](https://wich.owaspblt.org/), [Bumper](https://bumper.owaspblt.org/) | Score a repository against 100 OWASP points, and nudge idle ones back to life |
+| [Lettuce](https://lettuce.owaspblt.org/) | The Slack bot that welcomes new members to the OWASP community |
+
+# Get Involved
+
+BLT needs developers, and just as much it needs testers, writers, designers, researchers, translators and organizers. You don't need a security background to start.
+
+| | |
+|---|---|
+| 🌱 **Make your first pull request** | Pick a [good first issue](https://git.owaspblt.org/BLT/issues?label=good%20first%20issue) and follow the [contributing guide](https://git.owaspblt.org/BLT/blob/CONTRIBUTING.md). |
+| 💬 **Say hello** | Join `#project-blt` on the [OWASP Slack](https://owasp.org/slack/invite) and ask anything. |
+| 🐛 **Report a bug** | Log it on [owaspblt.org](https://owaspblt.org/), or report a vulnerability privately through [BLT Zero](https://zero.owaspblt.org/). |
+| 🗳️ **Lead a project** | Nominate yourself or someone else in the [community elections](https://pages.owaspblt.org/leaders.html). |
+| 🤖 **Bring your AI** | Every issue has a one-line prompt to paste into your coding agent. You review what it writes, and each pull request names the model used. See the [AI Policy](https://git.owaspblt.org/BLT/blob/AI_POLICY.md). |
+
+# Milestones
+
+| When | What happened |
+|---|---|
+| **October 2026** | Every BLT project moves into one monorepo, with its full history, at [git.owaspblt.org](https://git.owaspblt.org/BLT). [Read the story](https://dev.to/owaspblt/when-github-went-dark-how-owasp-blt-found-a-new-home-56o9). |
+| **Summer 2026** | Eleven Google Summer of Code projects ship security tools, learning platforms and edge infrastructure. [Meet the team](https://dev.to/owaspblt/eleven-projects-one-remarkable-team-celebrating-owasp-blts-gsoc-2026-4dck). |
+| **2025** | BLT 2.0 and 2.1: a full redesign, Slack integration, BACON rewards, security labs, hackathons, bounty payouts and dark mode |
+| **2024** | A new home page, an AI chatbot, website monitoring and cryptocurrency payments |
+| **May 2023** | BLT becomes an OWASP Production project |
+| **2020 to today** | A Google Summer of Code project every year |
+| **September 2016** | BLT becomes an official OWASP project |
+| **January 2012** | The idea is born: a website that makes a game out of bug finding |
+
+# Frequently Asked Questions
+
+**What is OWASP BLT?** A free, open-source set of tools for reporting bugs and vulnerabilities on any website, app or repository, rewarding the people who find them, and teaching security through real contributions.
+
+**Who can use it?** Anyone. You don't need a security background to report a broken page, and experienced researchers get private disclosure, bug hunts and bounties.
+
+**How do I report a security vulnerability?** Never in a public issue. Use [BLT Zero](https://zero.owaspblt.org/) for encrypted reports about any site. For vulnerabilities in BLT itself, follow the [Security Policy](https://git.owaspblt.org/BLT/blob/SECURITY.md).
+
+**Can my organization run a bug hunt?** Yes. Launch a bug hunt with a prize pool on [owaspblt.org](https://owaspblt.org/), or a contributor hackathon on [BLT Hackathons](https://hackathons.owaspblt.org/).
+
+**Where is the code? Is GitHub still used?** All BLT code, issues and pull requests are at [git.owaspblt.org/BLT](https://git.owaspblt.org/BLT). [github.com/OWASP/BLT](https://github.com/OWASP/BLT) is a read-only mirror kept as a backup.
+
+**Is it free?** Yes. Each project keeps its own open-source license; most are AGPL-3.0.
+
+**I don't write code. Can I still help?** Absolutely. Testing, docs, design, research, translation, mentoring and organizing events all move the project forward.
 
 # Donate
 
-Donating to OWASP BLT is a great way to support the project and ensure its ongoing development. Your donation will be used to cover expenses related to hosting the project's infrastructure, organizing events, and promoting the project to a wider audience. By donating, you're helping to keep OWASP BLT free and open-source for everyone to use, and you're supporting the growth of the project. Every contribution, no matter how small, is greatly appreciated and goes a long way in helping the project reach its full potential.
+Donations to OWASP BLT pay for hosting, events and outreach, and keep every BLT tool free and open for everyone. Every contribution, however small, helps make the internet a little less buggy.
 
-[Donate Here](https://owasp.org/donate?reponame=www-project-bug-logging-tool&title=OWASP+Bug+logging+tool)
-
-[Category:OWASP Project](Category:OWASP_Project "wikilink")
-
-[Category:OWASP Builders](Category:OWASP_Builders "wikilink")
-
-[Category:OWASP Defenders](Category:OWASP_Defenders "wikilink")
-
-[Category:OWASP Tool](Category:OWASP_Tool "wikilink")
-
+[Donate to OWASP BLT](https://owasp.org/donate?reponame=www-project-bug-logging-tool&title=OWASP+Bug+Logging+Tool)

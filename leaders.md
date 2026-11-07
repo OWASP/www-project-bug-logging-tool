@@ -1,3 +1,2 @@
 ### Leaders
-* [DonnieBLT on slack](mailto:donnie.brown@owasp.org)
-
+* [Donnie Brown](mailto:donnie.brown@owasp.org)
